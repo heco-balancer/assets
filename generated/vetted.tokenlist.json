@@ -3584,7 +3584,15 @@
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
         },
         {
-            "address": "0xe1329748c41A140536e41049C95c36A53bCACee6",
+            "address": "0x7af326b6351c8a9b8fb8cd205cbe11d4ac5fa836",
+            "chainId": 256,
+            "name": "WETH",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
+        },
+        {
+            "address": "0xfeB76Ae65c11B363Bd452afb4A7eC59925848656",
             "chainId": 256,
             "name": "Heco Wrapped Ether",
             "symbol": "HETH",
