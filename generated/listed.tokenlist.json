@@ -780,6 +780,22 @@
             "symbol": "aUSDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+        },
+        {
+            "address": "0x36DD0591e4dFF350627f62950b2a6F2181B70e3E",
+            "chainId": 256,
+            "name": "MANA",
+            "symbol": "MANA",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
+        },
+        {
+            "address": "0x8F8c70e5E9A013B32600e338e4bBE6364caAF5BB",
+            "chainId": 256,
+            "name": "LINK",
+            "symbol": "LINK",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
         }
     ]
 }
