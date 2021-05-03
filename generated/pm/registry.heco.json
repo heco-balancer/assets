@@ -33,7 +33,7 @@
       "address": "0x36DD0591e4dFF350627f62950b2a6F2181B70e3E",
       "name": "MANA",
       "symbol": "MANA",
-      "decimals": 6,
+      "decimals": 18,
       "precision": 2,
       "hasIcon": false,
       "logoUrl": ""
@@ -42,7 +42,7 @@
       "address": "0x3E24e9d2c824B0ac2C82edc931B67252099B8e79",
       "name": "LINK",
       "symbol": "LINK",
-      "decimals": 6,
+      "decimals": 18,
       "precision": 2,
       "hasIcon": false,
       "logoUrl": ""

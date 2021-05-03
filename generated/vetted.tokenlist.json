@@ -3612,7 +3612,7 @@
             "chainId": 256,
             "name": "MANA",
             "symbol": "MANA",
-            "decimals": 6,
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
         },
         {
@@ -3620,7 +3620,7 @@
             "chainId": 256,
             "name": "LINK",
             "symbol": "LINK",
-            "decimals": 6,
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
         }
     ]
