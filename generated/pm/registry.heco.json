@@ -10,7 +10,7 @@
       "logoUrl": ""
     },
     "0xfeB76Ae65c11B363Bd452afb4A7eC59925848656": {
-      "address": "0x04F535663110A392A6504839BEeD34E019FdB4E0",
+      "address": "0xfeB76Ae65c11B363Bd452afb4A7eC59925848656",
       "id": "",
       "name": "Heco Wrapped Ether",
       "symbol": "HETH",
@@ -19,7 +19,7 @@
       "hasIcon": false,
       "logoUrl": ""
     },
-    "0xFd05Bbf0e4E2fc552A67F3cb2dD2ecB289252eE1": {
+    "0x04F535663110A392A6504839BEeD34E019FdB4E0": {
       "address": "0x04F535663110A392A6504839BEeD34E019FdB4E0",
       "id": "",
       "name": "aUSDT",
