@@ -3602,8 +3602,8 @@
         {
             "address": "0x04F535663110A392A6504839BEeD34E019FdB4E0",
             "chainId": 256,
-            "name": "aUSDT",
-            "symbol": "aUSDT",
+            "name": "USDC",
+            "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
         },

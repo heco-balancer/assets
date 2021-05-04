@@ -29,8 +29,8 @@
         },
         "0x04F535663110A392A6504839BEeD34E019FdB4E0": {
             "address": "0x04F535663110A392A6504839BEeD34E019FdB4E0",
-            "name": "Aave Interest bearing USDT",
-            "symbol": "aUSDT",
+            "name": "USDC",
+            "symbol": "USDC",
             "decimals": 6,
             "precision": 2,
             "hasIcon": false,

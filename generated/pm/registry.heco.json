@@ -2,6 +2,7 @@
   "tokens": {
     "0x7af326b6351c8a9b8fb8cd205cbe11d4ac5fa836": {
       "address": "0x7af326b6351c8a9b8fb8cd205cbe11d4ac5fa836",
+      "id": "huobi-token",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
@@ -11,7 +12,7 @@
     },
     "0xfeB76Ae65c11B363Bd452afb4A7eC59925848656": {
       "address": "0xfeB76Ae65c11B363Bd452afb4A7eC59925848656",
-      "id": "",
+      "id": "huobi-ethereum",
       "name": "Heco Wrapped Ether",
       "symbol": "HETH",
       "decimals": 18,
@@ -21,9 +22,9 @@
     },
     "0x04F535663110A392A6504839BEeD34E019FdB4E0": {
       "address": "0x04F535663110A392A6504839BEeD34E019FdB4E0",
-      "id": "",
-      "name": "aUSDT",
-      "symbol": "aUSDT",
+      "id": "tether",
+      "name": "USDC",
+      "symbol": "USDC",
       "decimals": 6,
       "precision": 3,
       "hasIcon": false,
@@ -31,6 +32,7 @@
     },
     "0x36DD0591e4dFF350627f62950b2a6F2181B70e3E": {
       "address": "0x36DD0591e4dFF350627f62950b2a6F2181B70e3E",
+      "id": "aave-mana",
       "name": "MANA",
       "symbol": "MANA",
       "decimals": 18,
@@ -40,6 +42,7 @@
     },
     "0x3E24e9d2c824B0ac2C82edc931B67252099B8e79": {
       "address": "0x3E24e9d2c824B0ac2C82edc931B67252099B8e79",
+      "id": "link",
       "name": "LINK",
       "symbol": "LINK",
       "decimals": 18,
